@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(37, 37, 68);
+    background-color: rgb(90, 90, 172);
     font-family: Comfortaa;
     color: white;
 }
@@ -14,13 +14,15 @@ body{
     height: 100vh;
 }
 h3{
-    margin-top: 6rem;
+    margin-top: 3rem;
     color: white;
     font-size: 5rem;
     font-weight: bolder;
     text-shadow: 4px 4px 0 #000, 7px 7px 7px rgba(0, 0, 0, 0.4);
     margin-bottom: 50px;
     text-align: center;
+    
+
 }
 p{
     color: white;
